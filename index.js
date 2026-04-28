@@ -5,7 +5,7 @@ function createBot() {
         host: 'Lloydsworld-LCxb.aternos.me', // Ex: meu-servidor.aternos.me
         port: 30228,                          // Mude para a sua porta de 5 números
         username: 'Zane_Bot',                 // Nome que o bot terá no jogo
-        version: '1.26.14.1'                     // Mude para a versão do seu servidor
+        version: 'false'                     // Mude para a versão do seu servidor
     })
 
     bot.on('spawn', () => {
